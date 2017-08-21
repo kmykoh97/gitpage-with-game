@@ -79,5 +79,3 @@ function DareF(){
     var TOD =document.getElementById("tod");
     TOD.value=DareArray[x];
 }
-
-/*Thank you so much for your support, have a nice day
