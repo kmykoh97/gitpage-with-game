@@ -3,10 +3,11 @@
  *  
  * If you have time go check my codes. It means a lot for me.*/
 
+
+
+
+
 alert ("Check out my game: Truth Or Dare!. Follow me on github: kmykoh97")
-
-
-
 
 var TruthArry = new Array
 (
@@ -79,4 +80,4 @@ function DareF(){
     TOD.value=DareArray[x];
 }
 
-
+/*Thank you so much for your support, have a nice day
